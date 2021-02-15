@@ -12,7 +12,8 @@ import { HeroesComponent } from './pages/heroes/heroes.component';
     AppComponent,
     NavigationComponent,
     HomeComponent,
-    HeroesComponent
+    HeroesComponent,
+
   ],
   imports: [
     BrowserModule,
